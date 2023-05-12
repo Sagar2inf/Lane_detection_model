@@ -5,6 +5,7 @@ BDD100K dataset is used as reference (BDD100K -https://bdd-data.berkeley.edu/). 
 such a way that, there are only three colors (pink,blue and black) in the label representing lane area,obstacles and background respectively.
 ### Library Used
 TensorFlow<br>
+PyTorch<br>
 Matplotlib<br>
 Numpy<br>
 Pandas<br>
