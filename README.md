@@ -1,6 +1,7 @@
 # Lane Detection Using Deep Learing
 The aim is to build a machine learning model to distinguish the drivable lane road from the obstacles and background in the active road image.
-###### (This is the link for Pretrained Model https://drive.google.com/file/d/1-LCbdwhTEUE2J2jj31Q-n83xA__QuvVE/view?usp=share_link)
+###### (This is the link for Pretrained Model https://drive.google.com/file/d/1-LCbdwhTEUE2J2jj31Q-n83xA__QuvVE/view?usp=share_link<br>
+###### and dataset is https://drive.google.com/file/d/1MJy2X3qSKVx125iG23Zd0vli0ewdGP-F/view?usp=share_link)
 ### Dataset
 BDD100K dataset is used as reference (BDD100K -https://bdd-data.berkeley.edu/). The label images of BDD100K dataset were modified  in
 such a way that, there are only three colors (pink,blue and black) in the label representing lane area,obstacles and background respectively.
